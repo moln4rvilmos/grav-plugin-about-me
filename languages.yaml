@@ -84,3 +84,32 @@ nl:
       URL: Uw serviceprofiel-URL
       TITLE: Titel indien boven icoon (optioneel)
       POSITION: Positie
+
+hu:
+    PLUGIN_ABOUTME:
+        ENABLED: Bővítmény állapota
+        BUILT_IN_CSS: Beépített CSS használata
+        NAME: Név
+        TITLE: Titulus / Beosztás
+        SHOW_TITLE: Titulus / Beosztás megjelenítése
+        DESCRIPTION: Leírás
+        PICTURE:
+            SECTION: Profilkép
+            PICTURE_SRC: Képfájl
+        GRAVATAR:
+            SECTION: Gravatar
+            ENABLED: Gravatar állapota
+            EMAIL: E-mail cím
+            SIZE: Méret (min 50)
+        SOCIAL_PAGES:
+            SECTION: Közösségi oldalak
+            ENABLED: Közösségi oldalak állapota
+            USE_FONT_AWESOME: Font Awesome használata (Csak akkor, ha a témád még nem használja)
+        SOCIAL_PAGES_TYPES:
+            SPACER: Közösségi oldalak típusai
+            TABS: Oldalak
+            ICON_TYPE: Font Awesome ikon típusa
+            ICON: Font Awesome ikon
+            URL: A profilod URL-je a szolgáltatáson
+            TITLE: Cím az ikon fölé (opcionális)
+            POSITION: Pozíció (sorrend)
